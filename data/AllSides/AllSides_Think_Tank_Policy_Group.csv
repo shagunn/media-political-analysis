@@ -1,0 +1,52 @@
+name,url_as,bias_as,agree_as,disagree_as,agree_ratio_as,agree_desc_as
+AARP,https://www.allsides.com/news-source/aarp-media-bias,center,1531,2692,0.5687221396709928,disagree
+Accuracy in Media,https://www.allsides.com/news-source/accuracy-media,right,822,504,1.6309523809200208,agree
+ACLU,https://www.allsides.com/news-source/american-civil-liberties-union,left-center,1451,2015,0.7200992555795529,somewhat disagree
+American Conservative Union,https://www.allsides.com/news-source/american-conservative-union,right,714,389,1.8354755783589851,agree
+American Enterprise Institute,https://www.allsides.com/news-source/american-enterprise-institute,right-center,1595,862,1.8503480278207616,agree
+Americans for Democratic Action,https://www.allsides.com/news-source/americans-democratic-action,left,592,259,2.285714285626034,strongly agree
+Americans for Tax Reform,https://www.allsides.com/news-source/americans-tax-reform,right,607,430,1.4116279069439157,somewhat agree
+Association for Psychological Science,https://www.allsides.com/news-source/association-psychological-science,center,694,587,1.1822827938469798,somewhat agree
+Atlas Network,https://www.allsides.com/news-source/atlas-network,right,309,209,1.4784688994507909,somewhat agree
+AtlasOne,https://www.allsides.com/news-source/atlasone,right-center,244,276,0.8840579709824616,somewhat disagree
+Better Government Association,https://www.allsides.com/news-source/better-government-association-media-bias,center,18,29,0.6206896549583829,disagree
+Brookings Institution,https://www.allsides.com/news-source/brookings-institute,center,2328,1545,1.5067961164951018,agree
+Carnegie Endowment for International Peace,https://www.allsides.com/news-source/carnegie-endowment-international-peace,center,418,343,1.2186588920927504,somewhat agree
+Cato Institute (blog),https://www.allsides.com/news-source/cato-institute,right-center,958,1461,0.6557152635136502,disagree
+Center For American Progress,https://www.allsides.com/news-source/center-american-progress,left-center,954,1387,0.6878154289784585,somewhat disagree
+Center for Media & Democracy PR Watch,https://www.allsides.com/news-source/center-media-democracy-pr-watch,left-center,248,260,0.9538461538094675,somewhat disagree
+Center for Strategic and Budgetary Assessments,https://www.allsides.com/news-source/cent-strategic-and-budgetary-assessments,right-center,369,445,0.8292134831274334,somewhat disagree
+Center on Budget and Policy Priorities,https://www.allsides.com/news-source/center-budget-and-policy-priorities-0,left,727,651,1.116743471565027,somewhat agree
+Children’s Defense Fund,https://www.allsides.com/news-source/childrens-defense-fund,left,238,252,0.9444444444069665,somewhat disagree
+CivilPolitics.org,https://www.allsides.com/news-source/civilpoliticsorg,center,243,239,1.016736401631099,somewhat agree
+Coffee Party USA,https://www.allsides.com/news-source/coffee-party-usa-media-bias,center,34,38,0.8947368418698061,somewhat disagree
+Common Ground Committee,https://www.allsides.com/news-source/common-ground-committee-media-bias,center,1,0,100000000.0,absolutely agree
+Council on Foreign Relations,https://www.allsides.com/news-source/council-foreign-relations-0,left,144,209,0.6889952152780385,somewhat disagree
+Economic Policy Institute,https://www.allsides.com/news-source/economic-policy-institute-0,left,173,190,0.9105263157415512,somewhat disagree
+EdVotes.org,https://www.allsides.com/news-source/edvotesorg,left,113,58,1.9482758617330558,agree
+Environmental Defense Fund,https://www.allsides.com/news-source/environmental-defense-fund,left-center,283,203,1.3940886698820645,somewhat agree
+Family Research Council,https://www.allsides.com/news-source/family-research-council,right-center,310,527,0.5882352941064851,disagree
+Federation of American Scientists,https://www.allsides.com/news-source/federation-american-scientists,left-center,223,263,0.8479087452149083,somewhat disagree
+Food Democracy Now,https://www.allsides.com/news-source/food-democracy-now,left-center,134,137,0.9781021897096275,somewhat disagree
+Freakonomics,https://www.allsides.com/news-source/freakonomics,center,352,223,1.5784753362520862,agree
+Freedom House,https://www.allsides.com/news-source/freedom-house,right-center,114,163,0.6993865030245775,somewhat disagree
+Gell,https://www.allsides.com/news-source/gell-media-bias,allsides,66,44,1.499999999659091,somewhat agree
+GOP.gov,https://www.allsides.com/news-source/gopgov,right,450,222,2.0270270269357193,strongly agree
+Healthcare.gov,https://www.allsides.com/news-source/healthcaregov,left-center,228,410,0.5560975609620464,disagree
+Independent Institute,https://www.allsides.com/news-source/independent-institute,right-center,209,255,0.8196078431051134,somewhat disagree
+Manhattan Institute,https://www.allsides.com/news-source/manhattan-institute,right-center,190,276,0.6884057970765071,somewhat disagree
+National Committee to Preserve Social Security and Medicare,https://www.allsides.com/news-source/national-committee-preserve-social-security-and-medicare,left,226,218,1.0366972476588672,somewhat agree
+National Interest,https://www.allsides.com/news-source/national-interest,center,181,263,0.6882129277304861,somewhat disagree
+New Economy Working Group,https://www.allsides.com/news-source/new-economy-working-group,left-center,109,80,1.3624999998296876,somewhat agree
+No Labels,https://www.allsides.com/news-source/no-labels,center,111,96,1.1562499998795575,somewhat agree
+OpenSecrets.org,https://www.allsides.com/news-source/opensecretsorg,center,478,361,1.324099722955011,somewhat agree
+Pacific Research Institute,https://www.allsides.com/news-source/pacific-research-institute,right,165,179,0.9217877094457101,somewhat disagree
+People for the American Way,https://www.allsides.com/news-source/people-american-way,left,213,140,1.5214285713198978,agree
+Physicians for a National Health Program,https://www.allsides.com/news-source/physicians-national-health-program,left,159,112,1.4196428570161035,somewhat agree
+Prager University,https://www.allsides.com/news-source/prager-university,right,1928,525,3.672380952311002,absolutely agree
+RAND Corporation,https://www.allsides.com/news-source/rand-corporation,left-center,428,569,0.7521968365421406,somewhat disagree
+Reason Foundation,https://www.allsides.com/news-source/reason-foundation,right-center,142,165,0.8606060605539027,somewhat disagree
+redefinED,https://www.allsides.com/news-source/redefined,center,141,78,1.8076923074605524,agree
+The Heritage Foundation,https://www.allsides.com/news-source/heritage-foundation,right-center,2435,1404,1.7343304843181317,agree
+Vote Smart,https://www.allsides.com/news-source/vote-smark,center,210,223,0.9417040358322105,somewhat disagree
+Whitehouse.gov,https://www.allsides.com/news-source/whitehousegov,right-center,443,537,0.8249534450498146,somewhat disagree

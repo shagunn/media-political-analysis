@@ -1,0 +1,334 @@
+name,url_as,bias_as,agree_as,disagree_as,agree_ratio_as,agree_desc_as
+ABC News,https://www.allsides.com/news-source/abc-news-media-bias,left-center,17523,11118,1.5760928224486632,agree
+Above The Law,https://www.allsides.com/news-source/above-law-media-bias,left-center,8,5,1.5999999968,agree
+Abridge News,https://www.allsides.com/news-source/abridge-news-media-bias,allsides,159,98,1.6224489794262809,agree
+AJ+,https://www.allsides.com/news-source/aj-media-bias,left,169,75,2.2533333330328893,strongly agree
+Al Jazeera,https://www.allsides.com/news-source/al-jazeera-media-bias,left-center,3986,6440,0.6189440993779209,disagree
+AllSides,https://www.allsides.com/news-source/allsides-0,allsides,3534,1423,2.4834855937984295,strongly agree
+AllSides Community,https://www.allsides.com/news-source/allsides-community,allsides,2287,1373,1.6656955571619396,agree
+AlterNet,https://www.allsides.com/news-source/alternet-media-bias,left,5137,1191,4.313182199795859,absolutely agree
+American Greatness,https://www.allsides.com/news-source/american-greatness-media-bias,right,174,77,2.259740259446787,strongly agree
+American Spectator,https://www.allsides.com/news-source/american-spectator,right,8561,3280,2.6100609756017987,strongly agree
+American Thinker,https://www.allsides.com/news-source/american-thinker,right,1515,853,1.7760844079510423,agree
+Aquinas College Saint,https://www.allsides.com/news-source/aquinas-college-saint,left,846,553,1.5298372513285743,agree
+Arkansas Democrat-Gazette,https://www.allsides.com/news-source/arkansas-democrat-gazette,left,894,696,1.2844827586022345,somewhat agree
+Associated Press,https://www.allsides.com/news-source/associated-press-media-bias,center,11050,7934,1.3927401058717006,somewhat agree
+Atlanta Journal-Constitution,https://www.allsides.com/news-source/atlanta-journal-constitution,left-center,850,770,1.1038961038817676,somewhat agree
+Austin American-Statesman,https://www.allsides.com/news-source/austin-american-statesman,left-center,739,586,1.2610921501491281,somewhat agree
+Axios,https://www.allsides.com/news-source/axios,center,1650,1937,0.8518327310229643,somewhat disagree
+AZ Central,https://www.allsides.com/news-source/az-central-media-bias,center,87,125,0.69599999994432,somewhat disagree
+Barnstable Patriot,https://www.allsides.com/news-source/barnstable-patriot,center,499,579,0.8618307426448734,somewhat disagree
+BBC News,https://www.allsides.com/news-source/bbc-news-media-bias,center,14254,13565,1.0507924806479536,somewhat agree
+Bearing Drift,https://www.allsides.com/news-source/bearing-drift,right,595,519,1.1464354527717449,somewhat agree
+BET,https://www.allsides.com/news-source/bet-media-bias,left-center,70,84,0.8333333332341271,somewhat disagree
+Better Angels,https://www.allsides.com/news-source/better-angels-media-bias,allsides,62,55,1.1272727270677685,somewhat agree
+Bloomberg,https://www.allsides.com/news-source/bloomberg-media-bias,center,8002,11059,0.7235735599957287,somewhat disagree
+Blue Virginia,https://www.allsides.com/news-source/blue-virginia,left,705,521,1.353166986538327,somewhat agree
+Boing Boing,https://www.allsides.com/news-source/boing-boing,left,826,548,1.5072992700454872,agree
+Boston Herald,https://www.allsides.com/news-source/boston-herald-media-bias,right-center,360,318,1.1320754716625132,somewhat agree
+Boston Herald Editorial,https://www.allsides.com/news-source/boston-herald-editorial-media-bias,right-center,210,198,1.0606060605524945,somewhat agree
+Bowling Green Daily News,https://www.allsides.com/news-source/bowling-green-daily-news,left-center,557,611,0.9116202945840979,somewhat disagree
+Breitbart News,https://www.allsides.com/news-source/breitbart,right,21196,8654,2.449272012939162,strongly agree
+Bridgemi.com,https://www.allsides.com/news-source/bridgemicom-media-bias,center,52,47,1.1063829784880037,somewhat agree
+Business Insider,https://www.allsides.com/news-source/business-insider,center,2224,2813,0.7906150017746513,somewhat disagree
+Bustle,https://www.allsides.com/news-source/bustle,left-center,747,766,0.9751958224415771,somewhat disagree
+BuzzFeed News,https://www.allsides.com/news-source/buzzfeed-media-bias,left,9579,7192,1.331896551722286,somewhat agree
+C-SPAN,https://www.allsides.com/news-source/c-span,center,2996,929,3.2249730893086657,absolutely agree
+CalMatters,https://www.allsides.com/news-source/calmatters,center,642,518,1.2393822393583132,somewhat agree
+CalWatchdog,https://www.allsides.com/news-source/calwatchdog,center,516,544,0.9485294117472697,somewhat disagree
+Care2,https://www.allsides.com/news-source/care-2,left,567,608,0.9325657894583459,somewhat disagree
+CBN,https://www.allsides.com/news-source/cbn,right,6486,3409,1.9026107362807199,agree
+CBS News,https://www.allsides.com/news-source/cbs-news-media-bias,left-center,8985,6723,1.3364569388645895,somewhat agree
+Center - Major Media Sources,https://www.allsides.com/news-source/center-major-media-sources,center,621,540,1.1499999999787036,somewhat agree
+Center for Public Integrity,https://www.allsides.com/news-source/center-public-integrity,left-center,653,733,0.8908594815703839,somewhat disagree
+Centre View,https://www.allsides.com/news-source/centre-view,left-center,545,613,0.8890701468044198,somewhat disagree
+Check Your Fact,https://www.allsides.com/news-source/check-your-fact-media-bias,right-center,41,41,0.9999999997560975,NA
+Chicago Defender,https://www.allsides.com/news-source/chicago-defender-media-bias,left,2,0,200000000.0,absolutely agree
+Chicago Sun-Times,https://www.allsides.com/news-source/chicago-sun-times,left-center,734,722,1.0166204986008778,somewhat agree
+Chicago Tribune,https://www.allsides.com/news-source/chicago-tribune,center,1878,3353,0.5600954369204888,disagree
+Christian Science Monitor,https://www.allsides.com/news-source/christian-science-monitor,center,10387,13414,0.7743402415381136,somewhat disagree
+Christianity Today,https://www.allsides.com/news-source/christianity-today-media-bias,right-center,70,94,0.7446808509846085,somewhat disagree
+City Journal,https://www.allsides.com/news-source/city-journal-media-bias,right,315,262,1.2022900762899889,somewhat agree
+CNBC,https://www.allsides.com/news-source/cnbc,center,1810,4403,0.4110833522588892,strongly disagree
+CNET,https://www.allsides.com/news-source/cnet,center,253,202,1.2524752474627487,somewhat agree
+CNN (Web News),https://www.allsides.com/news-source/cnn-media-bias,left-center,31001,32844,0.9438862501519475,somewhat disagree
+CNN - Editorial,https://www.allsides.com/news-source/cnn-editorial,left,12311,3335,3.6914542728524995,absolutely agree
+CNSNews.com,https://www.allsides.com/news-source/cnsnewscom,right,817,697,1.1721664275298112,somewhat agree
+Columbia Journalism Review,https://www.allsides.com/news-source/columbia-journalism-review,center,167,298,0.5604026845449529,disagree
+Commentary Magazine,https://www.allsides.com/news-source/commentary-magazine-media-bias,right,189,207,0.9130434782167611,somewhat disagree
+Concord Monitor,https://www.allsides.com/news-source/concord-monitor,center,15,19,0.7894736837950138,somewhat disagree
+Conservative HQ,https://www.allsides.com/news-source/conservative-hq,right,812,378,2.1481481480913187,strongly agree
+Cook Report,https://www.allsides.com/news-source/cook-report,center,866,542,1.5977859778302992,agree
+Counter Currents,https://www.allsides.com/news-source/counter-currents,left-center,335,247,1.3562753035888147,somewhat agree
+Counterpointing,https://www.allsides.com/news-source/counterpointing,allsides,371,348,1.0660919539923537,somewhat agree
+CrowdPAC,https://www.allsides.com/news-source/crowdpac,center,395,414,0.9541062801701906,somewhat disagree
+CU Independent,https://www.allsides.com/news-source/cu-independent,center,346,410,0.8439024390038072,somewhat disagree
+Current Affairs,https://www.allsides.com/news-source/current-affairs-media-bias,left,304,139,2.1870503595548882,strongly agree
+Daily Beast,https://www.allsides.com/news-source/daily-beast-media-bias,left,9898,4699,2.1064056182121593,strongly agree
+Daily Cardinal,https://www.allsides.com/news-source/daily-cardinal,center,406,430,0.9441860464896701,somewhat disagree
+Daily Kos,https://www.allsides.com/news-source/daily-kos,left,5397,2003,2.6944583125177513,strongly agree
+Daily Mail,https://www.allsides.com/news-source/daily-mail,right,4046,2721,1.4869533259776297,somewhat agree
+Daily Northwestern,https://www.allsides.com/news-source/daily-northwestern,left-center,369,373,0.9892761393836655,somewhat disagree
+Daily Press,https://www.allsides.com/news-source/daily-press,right-center,350,439,0.7972665147882172,somewhat disagree
+Daily Progress,https://www.allsides.com/news-source/daily-progress,center,406,396,1.0252525252266351,somewhat agree
+Daily Targum,https://www.allsides.com/news-source/daily-targum,left-center,249,384,0.6484374999831136,disagree
+Defense One,https://www.allsides.com/news-source/defense-one-media-bias,center,230,216,1.0648148147655179,somewhat agree
+Democracy Now,https://www.allsides.com/news-source/democracy-now,left,6920,2093,3.3062589584170747,absolutely agree
+Des Moines Register,https://www.allsides.com/news-source/desmoines-register,center,90,105,0.8571428570612245,somewhat disagree
+Deseret News,https://www.allsides.com/news-source/deseret-news,right-center,1100,1745,0.6303724928330638,disagree
+Detroit Free Press,https://www.allsides.com/news-source/detroit-free-press,left-center,117,184,0.6358695651828331,disagree
+Detroit News,https://www.allsides.com/news-source/detroit-news,center,60,98,0.6122448978967098,disagree
+Diplomatic Courier,https://www.allsides.com/news-source/diplomatic-courier,center,346,274,1.2627737225816507,somewhat agree
+Drudge Report,https://www.allsides.com/news-source/drudge-report,right-center,2028,1379,1.4706308919400246,somewhat agree
+Duke Chronicle,https://www.allsides.com/news-source/duke-chronicle,center,378,379,0.9973614775462437,somewhat disagree
+Erraticus,https://www.allsides.com/news-source/erraticus-media-bias,center,3,3,0.9999999966666667,NA
+Esquire,https://www.allsides.com/news-source/esquire,left,953,522,1.8256704980493166,agree
+Estes Park Trail Gazette,https://www.allsides.com/news-source/estes-park-trail-gazette,center,245,327,0.7492354739832038,somewhat disagree
+Eurek Alert,https://www.allsides.com/news-source/eurek-alert,center,333,368,0.9048913043232366,somewhat disagree
+Fact Checker Blog,https://www.allsides.com/news-source/fact-checker-blog,center,757,629,1.2034976152431875,somewhat agree
+FactCheck.org,https://www.allsides.com/news-source/factcheckorg-media-bias,center,5950,4563,1.3039666885792156,somewhat agree
+FAIR,https://www.allsides.com/news-source/fair-media-bias,left-center,502,494,1.016194331963235,somewhat agree
+Falls Church News - Press,https://www.allsides.com/news-source/falls-church-news-press,left,385,454,0.8480176211266957,somewhat disagree
+Financial Times,https://www.allsides.com/news-source/financial-times-media-bias,center,490,326,1.5030674846164702,agree
+Fiscal Times,https://www.allsides.com/news-source/fiscal-times,right-center,704,601,1.1713810315944861,somewhat agree
+FiveThirtyEight,https://www.allsides.com/news-source/fivethirtyeight-0,center,3528,2226,1.5849056603702385,agree
+Forbes,https://www.allsides.com/news-source/forbes,center,5744,3321,1.7295995182121964,agree
+Foreign Affairs,https://www.allsides.com/news-source/foreign-affairs,center,882,493,1.7890466531077271,agree
+Foreign Policy,https://www.allsides.com/news-source/foreign-policy-media-bias,center,80,80,0.9999999998750001,NA
+Fox News Latino,https://www.allsides.com/news-source/fox-news-latino,right,1845,953,1.9359916054361386,agree
+Fox News Opinion,https://www.allsides.com/news-source/fox-news-editorial-media-bias,right,10233,2419,4.230260438180115,absolutely agree
+Fox Online News,https://www.allsides.com/news-source/fox-news-media-bias,right-center,25988,34798,0.7468245301451961,somewhat disagree
+FrontPage Magazine,https://www.allsides.com/news-source/frontpage-magazine,right,509,395,1.2886075949040858,somewhat agree
+GLAAD,https://www.allsides.com/news-source/glaad-media-bias,left-center,2,1,1.9999999800000003,agree
+Google News,https://www.allsides.com/news-source/google-news-media-bias,left-center,311,230,1.3521739129846881,somewhat agree
+GQ.com,https://www.allsides.com/news-source/gqcom-media-bias,left-center,55,74,0.743243243142805,somewhat disagree
+Grist,https://www.allsides.com/news-source/grist,left-center,461,511,0.9021526418610146,somewhat disagree
+Hampton Roads Messanger,https://www.allsides.com/news-source/hampton-roads-messanger,center,376,378,0.9947089946826796,somewhat disagree
+Harvard Business School,https://www.allsides.com/news-source/harvard-business-school,left-center,672,795,0.8452830188572921,somewhat disagree
+Heavy.com,https://www.allsides.com/news-source/heavycom-media-bias,center,31,30,1.033333332988889,somewhat agree
+Herald Democrat,https://www.allsides.com/news-source/herald-democrat-0,left,443,362,1.2237569060435427,somewhat agree
+Honolulu Civil Beat,https://www.allsides.com/news-source/honolulu-civil-beat,center,329,447,0.7360178970752569,somewhat disagree
+HotAir,https://www.allsides.com/news-source/hotair,right-center,1000,895,1.1173184357417059,somewhat agree
+Houston Chronicle,https://www.allsides.com/news-source/houston-chronicle-media-bias,center,31,20,1.549999999225,agree
+How Do We Fix It?,https://www.allsides.com/news-source/how-do-we-fix-it,center,608,591,1.0287648053971443,somewhat agree
+Howard Kurtz,https://www.allsides.com/news-source/howard-kurtz-media-bias,center,81,68,1.1911764704130623,somewhat agree
+HuffPost,https://www.allsides.com/news-source/huffpost-media-bias,left,23628,20454,1.1551774713986724,somewhat agree
+Idaho Statesman,https://www.allsides.com/news-source/idaho-statesman-media-bias,center,49,44,1.1136363633832644,somewhat agree
+Inacow,https://www.allsides.com/news-source/inacow,right,374,264,1.416666666613005,somewhat agree
+Independent Journal Review,https://www.allsides.com/news-source/independent-journal-review,right-center,1200,1108,1.0830324909649547,somewhat agree
+Indiana Daily Student,https://www.allsides.com/news-source/indiana-daily-student,center,272,353,0.7705382436042341,somewhat disagree
+Indy Online,https://www.allsides.com/news-source/indy-online,center,274,303,0.9042904290130597,somewhat disagree
+Indy Week,https://www.allsides.com/news-source/indy-week,left-center,296,339,0.873156342157134,somewhat disagree
+InfoWars,https://www.allsides.com/news-source/infowars,right,4332,1012,4.280632411024895,absolutely agree
+Inside Philanthropy,https://www.allsides.com/news-source/inside-philanthropy,center,294,325,0.9046153845875503,somewhat disagree
+Intellectual Conservative,https://www.allsides.com/news-source/intellectual-conservative,right-center,356,384,0.9270833333091906,somewhat disagree
+International Business Times,https://www.allsides.com/news-source/international-business-times,center,1006,769,1.3081924577203097,somewhat agree
+Investor's Business Daily,https://www.allsides.com/news-source/investors-business-daily,right-center,1144,915,1.2502732240300516,somewhat agree
+IVN,https://www.allsides.com/news-source/ivn,center,427,424,1.0070754716743615,somewhat agree
+Jacobin,https://www.allsides.com/news-source/jacobin-media-bias,left,594,150,3.9599999997359996,absolutely agree
+Jezebel,https://www.allsides.com/news-source/jezebel-media-bias,left,150,63,2.380952380574452,strongly agree
+Journalist's Resource,https://www.allsides.com/news-source/journalists-resource,center,254,294,0.8639455782019065,somewhat disagree
+Jubilee Media,https://www.allsides.com/news-source/jubilee-media-bias,center,172,152,1.131578947293975,somewhat agree
+Judicial Watch,https://www.allsides.com/news-source/judicial-watch,right-center,1078,1194,0.9028475711817183,somewhat disagree
+KATU,https://www.allsides.com/news-source/katu-media-bias,center,50,52,0.9615384613535503,somewhat disagree
+KQED,https://www.allsides.com/news-source/kqed,center,471,397,1.1863979848567658,somewhat agree
+KSL,https://www.allsides.com/news-source/ksl,right,863,676,1.2766272189160262,somewhat agree
+Las Vegas Sun,https://www.allsides.com/news-source/las-vegas-sun,left-center,282,288,0.9791666666326678,somewhat disagree
+Leesburg Today,https://www.allsides.com/news-source/leesburg-today,right-center,219,196,1.1173469387185027,somewhat agree
+Left - Major Media Sources,https://www.allsides.com/news-source/left-major-publications,left,562,439,1.2801822323170802,somewhat agree
+Lifehacker,https://www.allsides.com/news-source/lifehacker,center,324,308,1.0519480519138977,somewhat agree
+Listen First Project,https://www.allsides.com/news-source/listen-first-project-media-bias,allsides,132,105,1.2571428570231293,somewhat agree
+Live Action News,https://www.allsides.com/news-source/live-action-news,right-center,280,186,1.5053763440050871,agree
+Longmont Times-Call,https://www.allsides.com/news-source/longmont-times-call,left-center,179,166,1.0783132529470896,somewhat agree
+Los Angeles Times,https://www.allsides.com/news-source/los-angeles-times-bias,left-center,4229,3134,1.3493937460071812,somewhat agree
+Louisville Courier-Journal,https://www.allsides.com/news-source/louisville-courier-journal,left-center,201,201,0.9999999999502487,NA
+MarketWatch,https://www.allsides.com/news-source/marketwatch-media-bias,right-center,143,264,0.5416666666461489,disagree
+Mashable,https://www.allsides.com/news-source/mashable,left,428,188,2.2765957445597556,strongly agree
+McClatchyDC,https://www.allsides.com/news-source/mcclatchydc-media-bias,center,66,84,0.7857142856207484,somewhat disagree
+Media Matters,https://www.allsides.com/news-source/media-matters-bias,left,2551,1575,1.619682539672256,agree
+Media Research Center,https://www.allsides.com/news-source/media-research-center,right,1310,1613,0.8121512709187096,somewhat disagree
+Mediaite,https://www.allsides.com/news-source/mediaite-bias,left-center,704,712,0.9887640449299331,somewhat disagree
+Miami Herald,https://www.allsides.com/news-source/miami-herald,left-center,305,328,0.9298780487521379,somewhat disagree
+MichelleMalkin.com,https://www.allsides.com/news-source/michellemalkincom,right,553,285,1.9403508771248998,agree
+Michigan Daily,https://www.allsides.com/news-source/michigan-daily,left-center,237,218,1.0871559632528827,somewhat agree
+Mismatch.org,https://www.allsides.com/news-source/mismatchorg-media-bias,allsides,86,92,0.9347826085940454,somewhat disagree
+MIT News,https://www.allsides.com/news-source/mit-news,center,226,181,1.2486187844614023,somewhat agree
+Mother Jones,https://www.allsides.com/news-source/mother-jones-bias,left,7464,1340,5.570149253689776,absolutely agree
+MSNBC,https://www.allsides.com/news-source/msnbc,left,8189,2658,3.080887885616701,absolutely agree
+MTV News Online,https://www.allsides.com/news-source/mtv-news-online-media-bias,left-center,78,113,0.6902654866645783,somewhat disagree
+National Journal,https://www.allsides.com/news-source/national-journal,center,974,713,1.366058906011696,somewhat agree
+National Review,https://www.allsides.com/news-source/national-review,right,11198,5057,2.2143563377452753,strongly agree
+NBC (Web News),https://www.allsides.com/news-source/nbc-news-media-bias,left-center,5367,6541,0.820516740558293,somewhat disagree
+NBC Today Show,https://www.allsides.com/news-source/nbc-today-show,left-center,1190,1302,0.9139784946166362,somewhat disagree
+New Hampshire Union Leader,https://www.allsides.com/news-source/union-leader,center,23,22,1.0454545449793389,somewhat agree
+New Republic,https://www.allsides.com/news-source/new-republic,left,1377,741,1.8582995951166221,agree
+New York Daily News,https://www.allsides.com/news-source/new-york-daily-news,left,1120,515,2.1747572815111695,strongly agree
+New York Magazine,https://www.allsides.com/news-source/new-york-magazine,left,1850,869,2.1288837744288966,strongly agree
+New York Post,https://www.allsides.com/news-source/new-york-post,right,5172,3418,1.513165593910143,agree
+New York Times - News,https://www.allsides.com/news-source/new-york-times,left-center,18068,27607,0.6544716919619464,disagree
+New York Times - Opinion,https://www.allsides.com/news-source/new-york-times-opinion-media-bias,left,4599,1452,3.167355371879013,absolutely agree
+NewsBusters,https://www.allsides.com/news-source/newsbusters,right,339,196,1.7295918366464493,agree
+Newsmax - News,https://www.allsides.com/news-source/newsmax,right-center,7045,9106,0.7736657149123943,somewhat disagree
+Newsmax - Opinion,https://www.allsides.com/news-source/newsmax-opinion-media-bias,right,62,47,1.3191489358895427,somewhat agree
+NewsOne,https://www.allsides.com/news-source/newsonecom-media-bias,left,74,50,1.4799999997039999,somewhat agree
+Newsweek,https://www.allsides.com/news-source/newsweek,left-center,2274,2725,0.8344954128409744,somewhat disagree
+Newtrals,https://www.allsides.com/news-source/newtrals-media-bias,center,2,0,200000000.0,absolutely agree
+Nieman Lab,https://www.allsides.com/news-source/nieman-lab-media-bias,center,16,10,1.5999999984,agree
+NMPolitics.net,https://www.allsides.com/news-source/nmpoliticsnet,center,191,248,0.7701612902915257,somewhat disagree
+NPR Editorial,https://www.allsides.com/news-source/npr-editorial,left-center,2839,3131,0.9067390609999785,somewhat disagree
+NPR Online News,https://www.allsides.com/news-source/npr-media-bias,center,21371,16545,1.2916893321237282,somewhat agree
+One America News Network,https://www.allsides.com/news-source/one-america-news-network-media-bias,right-center,610,622,0.9807073954826253,somewhat disagree
+Orange County Register,https://www.allsides.com/news-source/orange-county-register,right-center,275,234,1.1752136751634523,somewhat agree
+Pacific Standard,https://www.allsides.com/news-source/pacific-standard,left-center,397,353,1.1246458923194151,somewhat agree
+PBS NewsHour,https://www.allsides.com/news-source/pbs-newshour,center,2344,1737,1.3494530800152593,somewhat agree
+Peacock Panache,https://www.allsides.com/news-source/peacock-panache,left,185,100,1.849999999815,agree
+Phys.org,https://www.allsides.com/news-source/physorg,center,125,71,1.7605633800337237,agree
+Pittsburgh Post-Gazette,https://www.allsides.com/news-source/pittsburgh-post-gazette,right-center,242,292,0.8287671232592888,somewhat disagree
+PJ Media,https://www.allsides.com/news-source/pj-media,right,256,140,1.8285714284408163,agree
+PJ Media,https://www.allsides.com/news-source/pj-media-media-bias,right-center,194,169,1.1479289940149153,somewhat agree
+Politico,https://www.allsides.com/news-source/politico-media-bias,left-center,15682,23129,0.6780232608410748,somewhat disagree
+PoliticusUSA,https://www.allsides.com/news-source/politicususa,left,894,313,2.8562300318576286,strongly agree
+PolitiFact,https://www.allsides.com/news-source/politifact,left-center,2252,2599,0.8664871104237535,somewhat disagree
+Portland Press Herald,https://www.allsides.com/news-source/portland-press-herarld,center,229,326,0.7024539877085136,somewhat disagree
+Poynter,https://www.allsides.com/news-source/poynter-media-bias,center,12,5,2.3999999952,strongly agree
+PRI (Public Radio International),https://www.allsides.com/news-source/pri-public-radio-international,center,693,423,1.638297872301695,agree
+Progressive Voices of Iowa,https://www.allsides.com/news-source/progressive-voices-iowa,left,204,129,1.5813953487146204,agree
+Project Veritas,https://www.allsides.com/news-source/project-veritas-media-bias,right-center,128,136,0.9411764705190311,somewhat disagree
+ProPublica,https://www.allsides.com/news-source/propublica,center,1045,717,1.4574616457258374,somewhat agree
+Psychology Today,https://www.allsides.com/news-source/psychology-today-media-bias,center,10,1,9.999999900000002,absolutely agree
+PXW News,https://www.allsides.com/news-source/pxw-news,center,182,191,0.9528795811019435,somewhat disagree
+Quartz,https://www.allsides.com/news-source/quartz,center,568,539,1.0538033394980741,somewhat agree
+Quillette,https://www.allsides.com/news-source/quillette-media-bias,right-center,362,585,0.618803418792841,disagree
+Rasmussen Reports,https://www.allsides.com/news-source/rasmussen-reports,center,519,740,0.7013513513418737,somewhat disagree
+Raw Story,https://www.allsides.com/news-source/raw-story,left,704,385,1.8285714285239332,agree
+RealClearPolitics,https://www.allsides.com/news-source/real-clear-politics,center,3137,3089,1.015539009384864,somewhat agree
+Reason,https://www.allsides.com/news-source/reason,right-center,5973,3925,1.5217834394865688,agree
+Record Journal,https://www.allsides.com/news-source/record-journal,center,134,152,0.8815789473104224,somewhat disagree
+Red Racing Horses,https://www.allsides.com/news-source/red-racing-horses-media-bias,right,33,33,0.9999999996969696,NA
+Red State,https://www.allsides.com/news-source/red-state,right,677,261,2.593869731701384,strongly agree
+Reuters,https://www.allsides.com/news-source/reuters,center,8609,5245,1.64137273593586,agree
+Richmond Times Dispatch,https://www.allsides.com/news-source/richmond-times-dispatch,right-center,242,209,1.1578947367867036,somewhat agree
+Right - Major Media Sources,https://www.allsides.com/news-source/right-major-publications,right,293,287,1.020905923309376,somewhat agree
+Right Side News,https://www.allsides.com/news-source/right-side-news,right,452,234,1.9316239315413835,agree
+Right Wing News,https://www.allsides.com/news-source/right-wing-news,right,403,196,2.0561224488746874,strongly agree
+Roll Call,https://www.allsides.com/news-source/roll-call-media-bias,center,148,141,1.049645389996479,somewhat agree
+RollingStone.com,https://www.allsides.com/news-source/rolling-stone,left,1496,434,3.4470046082155066,absolutely agree
+Salon,https://www.allsides.com/news-source/salon,left,11108,5045,2.20178394449514,strongly agree
+San Francisco Chronicle,https://www.allsides.com/news-source/san-francisco-chronicle,left,921,339,2.7168141592118933,strongly agree
+San Jose Mercury News,https://www.allsides.com/news-source/san-jose-mercury-news,left-center,382,421,0.9073634204060008,somewhat disagree
+Science Daily,https://www.allsides.com/news-source/science-daily,center,464,289,1.6055363321243759,agree
+Scientific American,https://www.allsides.com/news-source/scientific-american,center,1073,557,1.9263913823711598,agree
+SF Weekly,https://www.allsides.com/news-source/sf-weekly,center,260,333,0.7807807807573339,somewhat disagree
+SFGate,https://www.allsides.com/news-source/sf-gate,left-center,434,494,0.8785425101036732,somewhat disagree
+Sky-Hi Daily News,https://www.allsides.com/news-source/sky-hi-daily-news,left-center,141,126,1.119047618958806,somewhat agree
+Slate,https://www.allsides.com/news-source/slate,left,4477,2673,1.674897119335298,agree
+Smerconish,https://www.allsides.com/news-source/smerconish-media-bias,center,145,210,0.6904761904433107,somewhat disagree
+Snopes,https://www.allsides.com/news-source/snopes,center,281,582,0.4828178694075117,strongly disagree
+Socialist Alternative,https://www.allsides.com/news-source/socialist-alternative,left,438,208,2.105769230667992,strongly agree
+Socialist Project/The Bullet,https://www.allsides.com/news-source/socialist-projectthe-bullet,left,386,184,2.097826086842509,strongly agree
+Splinter,https://www.allsides.com/news-source/splinter-media-bias,left,204,76,2.684210525962604,strongly agree
+Spokesman Review,https://www.allsides.com/news-source/spokesman-review,left-center,208,241,0.863070539383275,somewhat disagree
+State Journal,https://www.allsides.com/news-source/state-journal,left-center,176,249,0.7068273092085612,somewhat disagree
+StoryCorps,https://www.allsides.com/news-source/storycorps-media-bias,allsides,64,57,1.122807017346876,somewhat agree
+Subverse,https://www.allsides.com/news-source/subverse-media-bias,center,75,39,1.9230769225838265,agree
+Suspend Belief Podcast,https://www.allsides.com/news-source/suspend-belief-podcast,allsides,148,176,0.8409090908613119,somewhat disagree
+Tallahassee Democrat,https://www.allsides.com/news-source/tallahassee-democrat,center,243,253,0.9604743082624319,somewhat disagree
+TechCrunch,https://www.allsides.com/news-source/techcrunch-media-bias,center,412,269,1.5315985129542156,agree
+Teen Vogue,https://www.allsides.com/news-source/teen-vogue,left-center,327,484,0.6756198346967847,somewhat disagree
+The Advocate-Messenger,https://www.allsides.com/news-source/advocate-messenger,left-center,176,217,0.8110599077967253,somewhat disagree
+The American Conservative,https://www.allsides.com/news-source/american-conservative-media-bias,right-center,218,237,0.9198312235898805,somewhat disagree
+The Appeal,https://www.allsides.com/news-source/appeal-media-bias,center,39,29,1.3448275857431629,somewhat agree
+The Atlantic,https://www.allsides.com/news-source/atlantic,left-center,6472,3460,1.8705202312084668,agree
+The Boston Globe,https://www.allsides.com/news-source/boston-globe,left-center,1524,1157,1.3171996542669215,somewhat agree
+The Cadiz Record,https://www.allsides.com/news-source/cadiz-record,left-center,176,187,0.941176470537905,somewhat disagree
+The Canyon County Zephyr,https://www.allsides.com/news-source/canyon-county-zephry,left,171,140,1.2214285713413264,somewhat agree
+The Center Square - Michigan,https://www.allsides.com/news-source/center-square-michigan-media-bias,center,26,40,0.6499999998375,disagree
+The College Fix,https://www.allsides.com/news-source/college-fix,right,175,148,1.1824324323525384,somewhat agree
+The Commercial Appeal,https://www.allsides.com/news-source/commercial-appeal,left-center,161,220,0.7318181817849173,somewhat disagree
+The Courier-Journal,https://www.allsides.com/news-source/courier-journal,left-center,137,233,0.5879828325927904,disagree
+The Daily Caller,https://www.allsides.com/news-source/daily-caller,right,5755,2851,2.018589968425049,strongly agree
+The Daily Dot,https://www.allsides.com/news-source/daily-dot-media-bias,left-center,45,45,0.9999999997777778,NA
+The Daily Show (humor),https://www.allsides.com/news-source/daily-show,left-center,935,1212,0.7714521452081564,somewhat disagree
+The Daily Signal,https://www.allsides.com/news-source/daily-signal,right,344,133,2.5864661652190626,strongly agree
+The Daily Wire,https://www.allsides.com/news-source/daily-wire,right,3924,1753,2.238448374202861,strongly agree
+The Dallas Morning News,https://www.allsides.com/news-source/dallas-morning-news,center,136,107,1.27102803726439,somewhat agree
+The Delaware County Daily Times,https://www.allsides.com/news-source/delaware-county-daily-times,left-center,183,215,0.8511627906580854,somewhat disagree
+The Dispatch,https://www.allsides.com/news-source/dispatch-media-bias,right-center,4,4,0.9999999975,NA
+The Economist,https://www.allsides.com/news-source/economist,left-center,2254,4304,0.5236988847571475,disagree
+The Epoch Times,https://www.allsides.com/news-source/epoch-times-media-bias,right,2460,805,3.055900621080051,absolutely agree
+The Federalist,https://www.allsides.com/news-source/federalist,right,3539,1510,2.343708609256002,strongly agree
+The Flip Side,https://www.allsides.com/news-source/flip-side-media-bias,allsides,306,241,1.2697095435157797,somewhat agree
+The Fulcrum,https://www.allsides.com/news-source/fulcrum-media-bias,center,67,68,0.9852941175021627,somewhat disagree
+The Gateway Pundit,https://www.allsides.com/news-source/gateway-pundit,right,572,398,1.437185929612131,somewhat agree
+The Globe and Mail,https://www.allsides.com/news-source/globe-and-mail-media-bias,center,29,34,0.8529411762197232,somewhat disagree
+The Guardian,https://www.allsides.com/news-source/guardian,left-center,7386,4628,1.595937770091625,agree
+The Hill,https://www.allsides.com/news-source/hill-media-bias,center,8959,11455,0.7821038847657947,somewhat disagree
+The Imaginative Conservative,https://www.allsides.com/news-source/imaginative-conservative-media-bias,right,34,32,1.0624999996679687,somewhat agree
+The Independent,https://www.allsides.com/news-source/independent-0,left-center,195,173,1.1271676299926492,somewhat agree
+The Intercept,https://www.allsides.com/news-source/intercept,left,1939,845,2.294674556185862,strongly agree
+The Jerusalem Post,https://www.allsides.com/news-source/jerusalem-post-media-bias,center,167,169,0.9881656804149014,somewhat disagree
+The Justice,https://www.allsides.com/news-source/justice,left-center,130,147,0.8843537414364385,somewhat disagree
+The Korea Herald,https://www.allsides.com/news-source/korea-herald,center,173,116,1.4913793102162605,somewhat agree
+The Libertarian Republic,https://www.allsides.com/news-source/libertarian-republic,right-center,829,679,1.2209131074930646,somewhat agree
+The Nation,https://www.allsides.com/news-source/nation-media-bias,left,1099,372,2.9543010751894005,strongly agree
+The National Pulse,https://www.allsides.com/news-source/national-pulse-media-bias,right,10,8,1.2499999984374999,somewhat agree
+The New Yorker,https://www.allsides.com/news-source/new-yorker,left,3703,1091,3.394133822150375,absolutely agree
+The Observer (New York),https://www.allsides.com/news-source/observer,center,210,370,0.5675675675522279,disagree
+The Oracle,https://www.allsides.com/news-source/oracle,center,83,115,0.7217391303720228,somewhat disagree
+The Philadelphia Inquirer,https://www.allsides.com/news-source/phillycom,left-center,125,141,0.8865248226321613,somewhat disagree
+The Plebeian,https://www.allsides.com/news-source/plebeian-media-bias,left-center,18,20,0.89999999955,somewhat disagree
+The Post Millennial,https://www.allsides.com/news-source/post-millennial-media-bias,right-center,135,85,1.588235293930796,agree
+The Red and Black,https://www.allsides.com/news-source/red-and-black,center,159,108,1.4722222220859054,somewhat agree
+The Reliable Bias,https://www.allsides.com/news-source/reliable-bias,center,105,141,0.7446808510110156,somewhat disagree
+The Republican,https://www.allsides.com/news-source/republican,center,191,426,0.44835680750121226,strongly disagree
+The Resurgent,https://www.allsides.com/news-source/resurgent-media-bias,right,77,61,1.2622950817602794,somewhat agree
+The Root,https://www.allsides.com/news-source/root,left-center,288,371,0.7762803234292107,somewhat disagree
+The Sacramento Bee,https://www.allsides.com/news-source/sacramento-bee,left-center,281,313,0.8977635782460778,somewhat disagree
+The Saturday Evening Post,https://www.allsides.com/news-source/saturday-evening-post,center,160,110,1.4545454544132232,somewhat agree
+The Seattle Times,https://www.allsides.com/news-source/seattle-times,center,81,71,1.140845070261853,somewhat agree
+The Telegraph - UK,https://www.allsides.com/news-source/telegraph-uk,right-center,956,492,1.9430894308548152,agree
+The Texan,https://www.allsides.com/news-source/texan-media-bias,right-center,54,48,1.124999999765625,somewhat agree
+The Texas Observer,https://www.allsides.com/news-source/texas-observer-media-bias,left-center,44,44,0.9999999997727272,NA
+The Texas Tribune,https://www.allsides.com/news-source/texas-tribune-media-bias,left-center,54,51,1.0588235292041521,somewhat agree
+The Verge,https://www.allsides.com/news-source/verge,left-center,558,376,1.48404255315202,somewhat agree
+The Week - News,https://www.allsides.com/news-source/the-week-bias,center,3223,2500,1.2891999999948434,somewhat agree
+The Week - Opinion,https://www.allsides.com/news-source/week-opinion-media-bias,left-center,40,37,1.081081080788897,somewhat agree
+The Weekly Standard,https://www.allsides.com/news-source/weekly-standard,right,1301,784,1.6594387754890378,agree
+The Western Journal,https://www.allsides.com/news-source/western-journalism,right,943,414,2.277777777722759,strongly agree
+TheBlaze.com,https://www.allsides.com/news-source/theblaze-bias,right,74241,62813,1.1819368602039098,somewhat agree
+ThinkProgress,https://www.allsides.com/news-source/thinkprogress-bias,left,2648,857,3.0898483080152874,absolutely agree
+Time Magazine,https://www.allsides.com/news-source/time-magazine-news-media-bias,left-center,5179,4310,1.2016241299276065,somewhat agree
+Townhall,https://www.allsides.com/news-source/townhall-bias,right,9073,13830,0.656037599421073,disagree
+Truth or Fiction,https://www.allsides.com/news-source/truth-or-fiction,center,271,221,1.2262443438359165,somewhat agree
+Truthdig,https://www.allsides.com/news-source/truthdig-media-bias,left,64,34,1.8823529406228374,agree
+TruthOut,https://www.allsides.com/news-source/truthout,left-center,337,358,0.9413407820966105,somewhat disagree
+U.S. News & World Report,https://www.allsides.com/news-source/us-news-and-world-report,left-center,1548,1726,0.8968713789055802,somewhat disagree
+Univision,https://www.allsides.com/news-source/univision,left-center,365,435,0.8390804597508257,somewhat disagree
+Upworthy,https://www.allsides.com/news-source/upworthy,left,436,311,1.4019292604050826,somewhat agree
+USA TODAY,https://www.allsides.com/news-source/usa-today-media-bias,center,13333,11372,1.1724410833616141,somewhat agree
+Vanity Fair,https://www.allsides.com/news-source/vanity-fair,left-center,3441,2246,1.5320569901979872,agree
+Vice,https://www.allsides.com/news-source/vice-media-bias,left,1409,414,3.4033816424298697,absolutely agree
+Virginia Mercury,https://www.allsides.com/news-source/virginia-mercury-media-bias,center,8,18,0.4444444441975308,strongly disagree
+Volante,https://www.allsides.com/news-source/volante,center,143,157,0.9108280254196924,somewhat disagree
+Vox,https://www.allsides.com/news-source/vox-news-media-bias,left,15869,12981,1.2224790077796606,somewhat agree
+VT Digger,https://www.allsides.com/news-source/vt-digger,left-center,164,192,0.8541666666221788,somewhat disagree
+Wake Up to Politics,https://www.allsides.com/news-source/wake-politics-media-bias,center,56,46,1.2173913040831759,somewhat agree
+Wall Street Journal - Editorial,https://www.allsides.com/news-source/wall-street-journal-opinion,right-center,6034,4334,1.392247346558855,somewhat agree
+Wall Street Journal - News,https://www.allsides.com/news-source/wall-street-journal-media-bias,center,13996,18970,0.7377965208219621,somewhat disagree
+WANDTV,https://www.allsides.com/news-source/wandtv-media-bias,center,41,43,0.9534883718712818,somewhat disagree
+Washington Examiner,https://www.allsides.com/news-source/washington-examiner,right-center,6415,3257,1.9696039299908825,agree
+Washington Free Beacon,https://www.allsides.com/news-source/washington-free-beacon,right,512,501,1.0219560878039529,somewhat agree
+Washington Monthly,https://www.allsides.com/news-source/washington-monthly,left-center,226,202,1.1188118811327321,somewhat agree
+Washington Post,https://www.allsides.com/news-source/washington-post-media-bias,left-center,26367,16777,1.5716159027230305,agree
+Washington Times,https://www.allsides.com/news-source/washington-times-bias,right-center,22422,11139,2.0129275518430623,strongly agree
+Watchdog.org,https://www.allsides.com/news-source/watchdogorg,right-center,532,576,0.9236111110950762,somewhat disagree
+WFAE,https://www.allsides.com/news-source/wfae,center,162,178,0.9101123594994318,somewhat disagree
+WGBH,https://www.allsides.com/news-source/wgbh,center,344,295,1.1661016948757252,somewhat agree
+WGN,https://www.allsides.com/news-source/wgn-media-bias,center,60,58,1.0344827584423306,somewhat agree
+Whatfinger News,https://www.allsides.com/news-source/whatfinger-news-media-bias,right,130,110,1.1818181817107438,somewhat agree
+Wired,https://www.allsides.com/news-source/wired,center,103,131,0.7862595419247129,somewhat disagree
+Wisconsin Gazette,https://www.allsides.com/news-source/wisconsin-gazette,left-center,214,189,1.1322751322152236,somewhat agree
+WND.com,https://www.allsides.com/news-source/wndcom,right,548,255,2.149019607758862,strongly agree
+Yahoo! News,https://www.allsides.com/news-source/yahoo-news-media-bias,left-center,2121,1630,1.3012269938570478,somewhat agree
+Yahoo! The 360,https://www.allsides.com/news-source/yahoo-360-media-bias,allsides,71,69,1.0289855070972487,somewhat agree
+Yes! Magazine,https://www.allsides.com/news-source/yes-magazine,left,402,204,1.9705882351975201,agree
